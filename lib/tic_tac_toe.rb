@@ -1,5 +1,4 @@
 
-TicTacToe.new.play 
 
 class TicTacToe 
 
