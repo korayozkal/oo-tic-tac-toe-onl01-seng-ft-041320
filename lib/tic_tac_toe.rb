@@ -1,3 +1,6 @@
+
+TicTacToe.new.play 
+
 class TicTacToe 
 
   def initialize(board = nil) 
