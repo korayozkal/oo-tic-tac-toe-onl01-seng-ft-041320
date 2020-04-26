@@ -121,10 +121,4 @@ end
       puts "Cats Game!"
     end
   end
-
-
-
-
-
-
 end
